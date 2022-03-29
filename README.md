@@ -1,6 +1,6 @@
 # BikeSalesAnalysis
 
-In this project ,analysed the **Bike sales analysis using** Excel and Created the Dashboard using Excel. 
+In this project ,analysed the **Bike Sales Analysis using** Excel and Created the Dashboard using Excel. 
 Dashboard is created with filters which will help the stakeholders to get the valuable insights of the Bike sales
 
  **Skills Used for this Project** : Data cleaning , Pivot Tables, Data visualization for individual Pivot table , slicers and Dashboard to get valuable insights 
