@@ -6,3 +6,8 @@ Dashboard is created with filters which will help the stakeholders to get the va
  **Skills Used for this Project** : Data cleaning , Pivot Tables, Data visualization for individual Pivot table , slicers and Dashboard to get valuable insights 
 
 ![Bike Sales Reports](https://user-images.githubusercontent.com/52009404/160641527-f0c921f8-e881-4fa1-a1d1-f9ba1d578ca7.jpg)
+
+
+
+
+![bug scrnshot](https://user-images.githubusercontent.com/52009404/161261487-930de2cb-df0e-4911-b0a5-45761f1256cd.JPG)
